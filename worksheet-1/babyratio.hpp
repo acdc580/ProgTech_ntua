@@ -1,5 +1,4 @@
 #include <iostream>
-
 class rational { 
 public: 
     rational (int n, int d); 
