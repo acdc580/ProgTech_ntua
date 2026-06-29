@@ -13,9 +13,9 @@ Solutions for the NTUA Object-Oriented Programming Worksheet 1, covering basic c
 This project uses a unified `Makefile` in the root directory. Run the following commands from the `worksheet-1` folder:
 
 **Build and Run:**
-``make run_baby``  && `./run_baby`    # Babyratio
-``make run_full``  && `./run_full`    # Fullratio
-``make run_stack`` && `./run_stack`   # Stackdemo
+* ``make run_baby``  && `./run_baby`    # Babyratio
+* ``make run_full``  && `./run_full`    # Fullratio
+* ``make run_stack`` && `./run_stack`   # Stackdemo
 
 **Cleanup:**
 make clean                      # Remove all compiled object files
